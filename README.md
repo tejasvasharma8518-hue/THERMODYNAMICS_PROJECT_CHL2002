@@ -55,7 +55,7 @@ The application provides an interactive dashboard where users can select a gas, 
 
 ## Documentation
 
-Refer to [`REPORT.pdf`](REPORT.pdf) for the detailed theoretical explanation, methodology, sample calculations, results and discussion.
+Refer to [`REPORT.pdf`](REPORT_CHL2002.pdf) for the detailed theoretical explanation, methodology, sample calculations, results and discussion.
 
 ---
 
