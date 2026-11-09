@@ -27,7 +27,6 @@ The application provides an interactive dashboard where users can select a gas, 
 
 - Python
 - Tkinter
-- NumPy
 - Matplotlib
 
 ## How to Run
@@ -51,7 +50,7 @@ The application provides an interactive dashboard where users can select a gas, 
 | File | Description |
 |---|---|
 | `SOFTWARE.py` | Python source code for the thermodynamic calculator |
-| `REPORT.pdf` | Project report containing theoretical background, methodology, results, figures and references |
+| `REPORT_CHL2002.pdf` | Project report containing theoretical background, methodology, results, figures and references |
 
 ## Documentation
 
