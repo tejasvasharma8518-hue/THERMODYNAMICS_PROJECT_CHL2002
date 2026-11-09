@@ -36,7 +36,7 @@ The application provides an interactive dashboard where users can select a gas, 
 2. Install the required library:
 
    ```bash
-   pip install numpy matplotlib
+   pip install matplotlib
    ```
 
 3. Download `SOFTWARE.py`.
